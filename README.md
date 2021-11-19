@@ -13,4 +13,7 @@ git status
 git stash
 git pop
 git reset
-
+git config
+git log
+git init
+git rm
